@@ -1,0 +1,54 @@
+div.page-heading{
+    visibility: hidden;
+    height: 50px;
+    margin: 0;
+}
+
+
+
+.site-search-opened #site-search{
+	z-index : 10000;
+}
+
+.site-search-opened #site-search input{
+	width:100%;
+}
+
+div.wpb_wrapper #custom-id-2{
+	color: #dd0606 !important;
+    padding: 7px 15px;
+    background-color: #ffffff;
+    position: relative;
+    top:10px;
+    left: 110px;
+}
+div.nav-bar a {
+    text-transform:initial;
+}
+
+td.column-1:hover{
+    background-color: #ccc;
+    color:black;
+}
+.normal1 h1{
+    color:#dd0606;
+    text-align: center;
+    padding-top: 50px;
+}
+.normal1 p{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.wpcf7 .wpcf7-form.cf7skins.cf7s-pina-colada input, .wpcf7 .wpcf7-form.cf7skins.cf7s-pina-colada textarea {
+        font-weight: normal;}
+
+.wpcf7-form input.wpcf7-text, .wpcf7-form textarea {
+    color: black;
+    font-weight: normal;
+}
+
+div .elementor-column-gap-default{
+    width: 100%;
+}

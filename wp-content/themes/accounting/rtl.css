@@ -1,0 +1,7 @@
+/* RTL */
+
+.rtl .owl-navigation i,
+.site-footer.style-2 .widget_nav_menu .menu a:before,
+.site-footer.style-3 .widget_nav_menu .menu a:before {
+    transform: scale(-1, 1);
+}
